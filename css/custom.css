@@ -1,0 +1,8 @@
+.red-text-shadow {
+  text-shadow: red 0 -2px;
+
+.element {
+  /* NOPE */
+  clip-path: rect(10px, 20px, 30px, 40px);
+}
+}
